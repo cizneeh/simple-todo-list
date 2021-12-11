@@ -1,5 +1,5 @@
 {
-  "name": "material-ui-test",
+  "name": "simple-todo-list",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
